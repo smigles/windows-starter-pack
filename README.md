@@ -16,6 +16,11 @@
 - [Перевести веб-страницы](https://addons.mozilla.org/ru/firefox/addon/traduzir-paginas-web/)
 - [BetterTTV](https://addons.mozilla.org/ru/firefox/addon/betterttv/)
 
+### Расширения для Google Chrome
+
+- [Adblock Plus](https://chrome.google.com/webstore/detail/adblock-plus-free-ad-bloc/cfhdojbkjhnklbpkdaibdccddilifddb?hl=ru)
+- [BetterTTV](https://chrome.google.com/webstore/detail/betterttv/ajopnjidmegmdimjlfnijceegpefgped?hl=ru)
+
 ## Работа с файлами
 
 - [Adobe Acrobat Reader DC](https://get.adobe.com/ru/reader/otherversions/)
