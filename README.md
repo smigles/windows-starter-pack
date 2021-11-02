@@ -39,3 +39,7 @@
 ## Игры
 
 - [Steam](https://store.steampowered.com/about/)
+
+## Прочее
+
+- [Типографская раскладка Ильи Бирмана](https://ilyabirman.ru/projects/typography-layout/)
